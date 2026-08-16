@@ -39,6 +39,6 @@ android_app {
     },
 
     aaptflags: [
-        "--rename-manifest-package", "org.strixos.camelot",
+        "--rename-manifest-package", "org.strixos.recorder",
     ],
 }
